@@ -1,3 +1,3 @@
 # Student-record
 
-Records of student
+Records of student.
